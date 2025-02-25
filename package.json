@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "glittr-sdk": "^0.0.0"
+  }
+}

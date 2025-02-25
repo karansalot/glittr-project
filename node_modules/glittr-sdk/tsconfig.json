@@ -1,0 +1,3 @@
+{
+  "extends": "@glittr-sdk/typescript-config/base.json"
+}
